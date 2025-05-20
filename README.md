@@ -16,11 +16,11 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Screenshot
 
-![](Images/DesktopView.png)
+![](images/DesktopView.png)
 
 It is the Desktop View of this project.
 
-![](Images/MobileView.png)
+![](images/MobileView.png)
 
 It is the mobile view of this project. I couldn't take the full screenshot of the mobile view because of height. Feel free to go to the live website and check it yourself.
 
